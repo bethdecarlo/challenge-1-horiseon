@@ -9,7 +9,7 @@ The Horiseon Website has now been refactored to follow accessibility standards. 
 
 This image shows that the website's appearance and functionality have not changed (ideally) after the refactoring.
 
-(./Assets/01-html-css-git-homework-demo.png)
+Click the link below to view the screenshot. 
 
 
 (https://user-images.githubusercontent.com/110702442/191637254-6fa12199-d6cf-4ca6-bf72-3ef6f9aac307.png)
