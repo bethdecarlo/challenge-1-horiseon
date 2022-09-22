@@ -9,7 +9,10 @@ The Horiseon Website has now been refactored to follow accessibility standards. 
 
 This image shows that the website's appearance and functionality have not changed (ideally) after the refactoring.
 
-![The Horiseon webpage includes a navigation bar, a large header image, and articles with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a large header image, and articles with text and images at the bottom of the page.]
+
+(./Assets/01-html-css-git-homework-demo.png)![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/110702442/191637254-6fa12199-d6cf-4ca6-bf72-3ef6f9aac307.png)
+
 
 ## Usage
 
